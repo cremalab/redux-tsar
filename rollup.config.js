@@ -1,7 +1,6 @@
-import typescript from 'rollup-plugin-typescript';
+import typescript from 'rollup-plugin-typescript2';
 
 export default {
-  // entry: './src/index.ts',
   input: './src/index.ts',
   output: {
     format: 'umd',
