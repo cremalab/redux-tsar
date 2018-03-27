@@ -1,5 +1,5 @@
 const thing = (x: string): number => {
-  return x.length
-}
+  return x.length;
+};
 
-export default thing
+export default thing;

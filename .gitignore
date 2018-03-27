@@ -60,4 +60,5 @@ typings/
 # Build artifacts
 dist
 *.log
+.rpt2_cache
 

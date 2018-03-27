@@ -2,6 +2,9 @@
   "compilerOptions": {
     "declaration": true,
     "strict": true,
+    "noUnusedParameters": true,
+    "pretty": true,
+    "noEmitOnError": true,
     "lib": [
       "es6"
     ],
